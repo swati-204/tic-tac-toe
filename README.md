@@ -14,10 +14,6 @@ Clone or download the repository to your local machine.
 Open the index.html file in your preferred web browser.
 Click on the squares to make your moves and try to achieve three in a row horizontally, vertically, or diagonally.
 Enjoy the music and sound effects as you strategize to beat your opponent.
-## Demo:
-
-Check out the live demo [here](http://127.0.0.1:5500/index.html), and experience the game firsthand!
-
 Contributions:
 Contributions are welcome! Whether you're a developer looking to enhance the codebase or a player with ideas for new features, feel free to contribute and make this game even better.
 
@@ -25,3 +21,8 @@ License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Let the Tic-Tac-Toe games begin!
+
+## Demo:
+
+Check out the live demo [here](http://127.0.0.1:5500/index.html), and experience the game firsthand!
+
